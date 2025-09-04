@@ -1,0 +1,1 @@
+docker run -i -t -d -p 8081:80 -e JWT_ENABLED=true -e JWT_SECRET=fsdftertrt34768586sfhjsdhfjhhjfsuhaiubue --restart=always onlyoffice/documentserver
